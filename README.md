@@ -22,7 +22,7 @@ Modify the defaults stanza within the terminator configuration file to select yo
 To configure the default scheme used for new windows/tabs to solarized-light; change:
 
     [[default]]
-    # solarized-light
+    # solarized-dark
     #palette = "#073642:#d30102:#859900:#b58900:#6c71c4:#d33682:#2aa198:#839496:#586e75:#cb4b16:#859900:#b58900:#268bd2:#d33682:#2aa198:#93a1a1"
     #background_color = "#eee8d5"
     #cursor_color = "#002b36"
@@ -31,7 +31,7 @@ To configure the default scheme used for new windows/tabs to solarized-light; ch
 To:
 
     [[default]]
-    # solarized-light
+    # solarized-dark
     palette = "#073642:#d30102:#859900:#b58900:#6c71c4:#d33682:#2aa198:#839496:#586e75:#cb4b16:#859900:#b58900:#268bd2:#d33682:#2aa198:#93a1a1"
     background_color = "#eee8d5"
     cursor_color = "#002b36"
