@@ -10,7 +10,7 @@ A color theme for [terminator](http://www.tenshu.net/terminator/) using Ethan Sc
   * `config` -  solarized theme for terminator (by [ghuntley](https://github.com/ghuntley))
 
 ## Usage
-Install the terminiator configuration file:
+Install the terminator configuration file:
 
     # mkdir -p ~/.config/terminator/
     # cp config ~/.config/terminator/
@@ -23,15 +23,15 @@ To configure the default scheme used for new windows/tabs to solarized-light; ch
 
     [[default]]
     # solarized-dark
-    #palette = "#073642:#d30102:#859900:#b58900:#6c71c4:#d33682:#2aa198:#839496:#586e75:#cb4b16:#859900:#b58900:#268bd2:#d33682:#2aa198:#93a1a1"
-    #background_color = "#eee8d5"
-    #cursor_color = "#002b36"
-    #foreground_color = "#002b36"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    foreground_color = "#eee8d5"
+    background_color = "#002b36"
+    cursor_color = "#eee8d5"
 
 To:
 
     [[default]]
-    # solarized-dark
+    # solarized-light
     palette = "#073642:#d30102:#859900:#b58900:#6c71c4:#d33682:#2aa198:#839496:#586e75:#cb4b16:#859900:#b58900:#268bd2:#d33682:#2aa198:#93a1a1"
     background_color = "#eee8d5"
     cursor_color = "#002b36"
