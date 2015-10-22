@@ -20,7 +20,7 @@ touch ~/.config/terminator/config
 # if you want to replace current config:
 cp config ~/.config/terminator
 # if you want to append current config:
-cat config >> ~/.config/terminator/
+cat config >> ~/.config/terminator/config
 ```
 
 Modify the defaults stanza within the terminator configuration file to select your default(s)
